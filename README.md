@@ -44,7 +44,7 @@ Ensure your CSV file follows this format:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/passbolt-user-bootstrap.git
+git clone https://github.com/MahdiAlimohammadi/passbolt-bulk-user-register.git
 cd passbolt-bulk-user-register
 ```
 
